@@ -41,3 +41,5 @@ nosetests.xml
 .cache/
 .vscode/
 .pytest_cache
+
+node_modules/
